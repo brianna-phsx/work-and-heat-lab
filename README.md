@@ -1,1 +1,1 @@
-# work-and-heat-lab
+If you open this ipynb file in Colab and run it, it will prompt you to input temnperatures T_room, T_cold, and T_hot in degrees C and will then print out the corresponding resistances R_room, R_cold, and R_hot in Ohms.
